@@ -1,0 +1,2 @@
+# amaze-deals
+amazon deals
