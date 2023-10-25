@@ -1,2 +1,2 @@
 # amaze-deals
-amazon deals
+amazing deals
